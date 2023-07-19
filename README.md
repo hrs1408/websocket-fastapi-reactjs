@@ -1,4 +1,4 @@
-# WebSocket Example
+# websocket-fastapi-reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,5 +41,4 @@ yarn start
 ```
 
 Open the browser in `localhost:3000` and you must see a chart being updated every second.
-# websocket-fastapi-reactjs
-# websocket-fastapi-reactjs
+
